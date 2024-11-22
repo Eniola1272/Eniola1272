@@ -52,5 +52,4 @@
   <a href="https://www.instagram.com/aligndigitaltech/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h2>📈 &nbsp;Some Github Stats</h2>
-<span align="left">
+
